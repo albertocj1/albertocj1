@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Christian Joshua Q. Alberto</h1>
-<h3 align="center">I am a Computer Science student specializing in Machine Learning at National University - Manila, Philippines</h3>
+<h1 align="left">Hi 👋, I'm Christian Joshua Q. Alberto</h1>
+<h3 align="left">I am a Computer Science student specializing in Machine Learning at National University - Manila, Philippines</h3>
 
 - 🌱 I’m currently studying **Machine Learning**
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/christianjoshuaalberto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianjoshuaalberto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christian-joshua-alberto-b38587128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianjoshuaalberto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
