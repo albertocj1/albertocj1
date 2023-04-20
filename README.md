@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Christian Joshua Q. Alberto</h1>
-<h3 align="right">I am a Computer Science student specializing Machine Learning in National University - Manila, Philippines</h3>
+<h3 align="left">I am a Computer Science student specializing Machine Learning in National University - Manila, Philippines</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
