@@ -18,7 +18,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertocj1&" alt="albertocj1" /></p>
 
-![cat](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
+![cat](https://media.giphy.com/media/eJG93okDlbbMSWreuz/giphy.gif)
 
 
 
