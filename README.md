@@ -1,4 +1,3 @@
-![](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
 
 <h1 align="left">Hi 👋, I'm Christian Joshua Q. Alberto</h1>
 <h3 align="left">I am a Computer Science student specializing in Machine Learning at National University - Manila, Philippines</h3>
